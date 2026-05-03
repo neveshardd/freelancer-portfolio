@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <img src="public/logo.png" alt="José Eugênio Logo" width="120" />
+  
+  # José Eugênio | Landing Pages Que Convertem
+  
+  **Designer e Desenvolvedor de Landing Pages de Alta Performance**
+</div>
 
-## Getting Started
+---
 
-First, run the development server:
+## ✦ Sobre o Portfólio
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este é o meu espaço digital, construído com foco absoluto em **estratégia, conversão e design premium**. Não desenvolvo apenas sites esteticamente agradáveis; construo ativos digitais projetados para alavancar negócios.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Meu processo une uma forte estética de UI (inspirada em produtos *High-End* como Linear, Framer e Vercel) com tecnologias de ponta. O resultado são páginas rápidas, polidas e perfeitamente otimizadas para guiar visitantes até a tomada de ação.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✦ Especialidades
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🎯 **Páginas de Captura de Leads:** Estruturas focadas em maximizar a conversão de tráfego orgânico e pago.
+- 🚀 **Páginas de Lançamento:** Design imersivo que gera antecipação e validação de produtos.
+- 💻 **Landing Pages para SaaS:** Experiências desenhadas para alavancar *signups* e solicitações de demonstração.
+- 📈 **Otimização de Conversão (CRO):** Redesign focado inteiramente em aumentar as taxas de fechamento.
 
-## Learn More
+## ✦ A Tecnologia 
 
-To learn more about Next.js, take a look at the following resources:
+O portfólio não possui apenas um design minimalista (Dark Mode + Glassmorphism). Ele é uma vitrine do meu padrão de desenvolvimento técnico:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js 15 & React:** A infraestrutura de renderização mais poderosa do mercado.
+- **Framer Motion:** Animações e interações fluídas, desenhadas para rodar a suaves 60FPS.
+- **Tailwind CSS v4:** Padronização visual em qualquer dispositivo, desde monitores Ultrawide até smartphones.
+- **SEO Perfeito & Web Vitals:** Implementação avançada de OpenGraph Dinâmico (`next/og`), rastreabilidade via `sitemap/robots`, e Schema.org (JSON-LD) para dominância em motores de busca.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ✦ O Processo
 
-## Deploy on Vercel
+01. **Descoberta:** Imersão no seu modelo de negócio, público-alvo e métricas atuais.
+02. **Estratégia:** Definição da hierarquia de informações e do fluxo de conversão ideal.
+03. **Design & Code:** Transformando lógica em interfaces "Premium" com código limpo e sustentável.
+04. **Lançamento:** Entrega com nota máxima (100/100) no Google Lighthouse.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ✦ Vamos Trabalhar Juntos?
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Me conte um pouco sobre o seu próximo projeto e receba uma proposta estratégica.
+
+- 📱 [**WhatsApp**](https://wa.me/5561998661866) (Retorno Imediato)
+- 📧 [**E-mail**](mailto:soujoseeugenio@gmail.com)
+- 🎨 [**Behance**](https://www.behance.net/joseugnio3)
+- 💻 [**GitHub**](https://github.com/neveshardd)
+
+<br/>
+
+<div align="center">
+  <sub>Projetado e desenvolvido com obsessão por detalhes por José Eugênio.</sub>
+</div>
