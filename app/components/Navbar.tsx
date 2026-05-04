@@ -40,7 +40,7 @@ export default function Navbar() {
       >
         <div className="flex-1 flex justify-start">
           <a href="#" className="flex items-center justify-center transition-transform hover:scale-105" aria-label="Home">
-            <Image src="/logo.png" alt="Logo" width={64} height={64} className="rounded-md object-cover w-8 h-8" />
+            <Image src="/logo.png" alt="Logo" width={64} height={64} className="rounded-md object-cover w-8 h-8" priority />
           </a>
         </div>
 
